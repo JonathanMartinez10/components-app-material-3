@@ -25,7 +25,7 @@ class _HomeView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
 
-    appMenuItems;
+    //appMenuItems;
 
     return ListView.builder(
       itemCount: appMenuItems.length,
