@@ -87,8 +87,7 @@ class _UiControlsViewState extends State<_UiControlsView> {
             ),
           ],
         ),
-
-        //TODO: todo por aqui
+        
 
         CheckboxListTile(
           title: const Text('Desayuno?'),
